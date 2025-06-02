@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="dapper" Version="2.1.66" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
+    <PackageReference Include="swashbuckle.aspnetcore" Version="8.1.2" />
   </ItemGroup>
 
 </Project>
